@@ -1,2 +1,2 @@
-# test-delete
-look where this appear
+test-delete
+This is a new repo.
